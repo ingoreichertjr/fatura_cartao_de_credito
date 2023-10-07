@@ -48,16 +48,26 @@
 # Acesso ao Projeto
 
 <p>Você pode acessar o código fonte do projeto ou baixá-lo.</p>
-
-[Projeto Completo](#projeto-completo)
 <br>
 
 # Tecnologias Utilizadas
+
+<p>As principais tecnologias utilizadas no projeto são:
+- Python
+- Pandas
+- Numpy
+- Sklearn
+- Statsmodels
+- Matplotlib
+- Seaborn
+</p>
+<br>
 
 # Desenvolvedores
 
 # Conclusões e Recomendações
 
+<p>Após garantir que a Regresão Linear OLS atendesse todos os seus pressupostos, foi possiǘel desenvolver um modelo estatisticamente confiável que demonstre quais fatores impactam mais no hábito cliente utilizar o cartão de crédito para realizar suas compras. Fatores estes, que podem forcever insghts valiosos para qualquer instiuição financeira que ofereça esse produto, assim como desenvolver ações mais personalizadas para cada cliente </p>
 
 
 
