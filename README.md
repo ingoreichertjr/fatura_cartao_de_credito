@@ -19,8 +19,8 @@
 
 * [Acesso ao Projeto](#acesso-ao-projeto)
   
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Tecnologias Itilizadas](#tecnologias-utilizadas)
   
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 
-* [Conclusão](#conclusão)
+* [Conclusões e Recomendações](#conclusões-e-recomendações)
