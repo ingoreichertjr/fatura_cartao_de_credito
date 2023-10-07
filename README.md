@@ -75,7 +75,7 @@ Você pode acessar o código fonte do projeto [aqui].(https://github.com/ingorei
 
 # Desenvolvedores
 
-[<img loading="lazy" src="figuras/fatura.jpeg" width=115><br><sub>Ingo Reichert Junior</sub>](https://github.com/ingoreichertjr) | 
+[<img loading="lazy" src="figuras/ingo.jpeg" width=115><br><sub>Ingo Reichert Junior</sub>](https://github.com/ingoreichertjr) | 
 
 # Conclusões e Recomendações
 
