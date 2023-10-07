@@ -35,10 +35,28 @@
 
 <p>Este projeto tem como objetivo analisar quais fatores (renda, limite do cartão, idade, entre outros) estão mais associados ao hábito dos clientes utilizar o cartão de crédito para realizar suas compras.</p>
 
-[Projeto Completo](#projeto-completo)
-
 # Origem dos Dados
 
-<p></p>
+<p>O banco de dados utilizado conta com características de diferentes clientes, com a sua formatação original possuindo 400 observações e 14 colunas</p>
+
+[Dados](#dados)
+
+# Acesso ao Projeto
+
+<p>Você pode acessar o código fonte do projeto ou baixá-lo.</p>
+
+[Projeto Completo](#projeto-completo)
+
+# Tecnologias Utilizadas
+
+# Desenvolvedores
+
+# Conclusões e Recomendações
+
+
+
+
+
+
 
 
