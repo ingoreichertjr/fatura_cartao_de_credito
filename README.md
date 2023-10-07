@@ -53,12 +53,19 @@
 # Tecnologias Utilizadas
 
 <p>As principais tecnologias utilizadas no projeto são:
+  
 - Python
+  
 - Pandas
+  
 - Numpy
+  
 - Sklearn
+  
 - Statsmodels
+  
 - Matplotlib
+  
 - Seaborn
 </p>
 <br>
