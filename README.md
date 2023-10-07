@@ -42,7 +42,7 @@
 
 <p>O banco de dados utilizado conta com características de diferentes clientes, com a sua formatação original possuindo 400 observações e 14 colunas</p>
 
-[Acessar os Dados](#dados)
+[Acessar os Dados](https://github.com/ingoreichertjr/fatura_cartao_de_credito/blob/main/dados/Credit.csv))
 <br>
 
 # Acesso ao Projeto
