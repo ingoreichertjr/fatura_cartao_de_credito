@@ -74,7 +74,7 @@
 
 # Conclusões e Recomendações
 
-<p>Após garantir que a Regresão Linear OLS atendesse todos os seus pressupostos, foi possiǘel desenvolver um modelo estatisticamente confiável que demonstre quais fatores impactam mais no hábito cliente utilizar o cartão de crédito para realizar suas compras. Fatores estes, que podem oferecer insghts valiosos para qualquer instiuição financeira que ofereça esse produto, assim como desenvolver ações mais personalizadas para cada cliente </p>
+<p>Após garantir que a Regresão Linear OLS atendesse todos os seus pressupostos, foi possiǘel desenvolver um modelo estatisticamente confiável que demonstre quais fatores impactam mais no hábito cliente utilizar o cartão de crédito para realizar suas compras. Fatores estes, que podem oferecer insghts valiosos para qualquer instiuição financeira que ofereça esse produto, assim como desenvolver ações mais personalizadas para cada cliente e reduzir o risco de inadimplência. </p>
 
 
 
