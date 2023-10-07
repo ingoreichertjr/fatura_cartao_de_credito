@@ -1,3 +1,3 @@
 # Regressão Linear OLS - Fatura Cartão de Crédito
 
-<img src='fatura.jpg>
+<img src='/fatura.jpg>
