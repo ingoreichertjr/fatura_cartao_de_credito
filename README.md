@@ -35,7 +35,9 @@
 
 # Descrição do Projeto
 
-<p>Este projeto tem como objetivo analisar quais fatores (renda, limite do cartão, idade, entre outros) estão mais associados ao hábito dos clientes utilizar o cartão de crédito para realizar suas compras.</p>
+<p>Este projeto tem como objetivo analisar quais fatores (renda, limite do cartão, idade, entre outros) estão mais associados ao hábito dos clientes utilizar o cartão de crédito para realizar suas compras.
+
+Isto é feito através do desenvolvimento de um modelo baseado na Regressão Linear OLS.</p>
 <br>
 
 # Origem dos Dados
