@@ -42,7 +42,7 @@
 
 <p>O banco de dados utilizado conta com características de diferentes clientes, com a sua formatação original possuindo 400 observações e 14 colunas</p>
 
-[Dados](#dados)
+[Acessar os Dados](#dados)
 <br>
 
 # Acesso ao Projeto
