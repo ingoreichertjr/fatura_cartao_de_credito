@@ -47,9 +47,7 @@
 
 # Acesso ao Projeto
 
-<p>Você pode [acessar o código fonte do projeto](https://github.com/ingoreichertjr/fatura_cartao_de_credito/blob/main/Regressao_Linear_OLS%20.ipynb) ou baixá-lo.</p>
-
-[Acessar o Projeto](https://github.com/ingoreichertjr/fatura_cartao_de_credito/blob/main/Regressao_Linear_OLS%20.ipynb)
+Você pode [acessar o código fonte do projeto](https://github.com/ingoreichertjr/fatura_cartao_de_credito/blob/main/Regressao_Linear_OLS%20.ipynb) ou baixá-lo.
 <br>
 
 # Tecnologias Utilizadas
