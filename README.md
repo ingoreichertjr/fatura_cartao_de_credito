@@ -30,22 +30,26 @@
   <p>Os dados desempenham um papel fundamental para qualquer tipo de instituição financeira, elas tornam seu funcionamento mais eficiente, permitindo que os gestores tomem decisões mais seguras e estratégicas, contribuem para uma melhor gestão de risco, são essenciais para que as instituições cumpram as conformidas regulatórias e ajudam a aprimorar a experiência do cliente.
   
   Quando nos referimos específicamente a gestão de cartões de crédito, os dados também se mostram essenciais, e entender a partir deles como ocorre o comportamento dos clientes na utilização deste instrumento de compra, pode significar uma grande vantagem competitiva em um setor com tanta concorrência.</p>
+<br>
 
 # Descrição do Projeto
 
 <p>Este projeto tem como objetivo analisar quais fatores (renda, limite do cartão, idade, entre outros) estão mais associados ao hábito dos clientes utilizar o cartão de crédito para realizar suas compras.</p>
+<br>
 
 # Origem dos Dados
 
 <p>O banco de dados utilizado conta com características de diferentes clientes, com a sua formatação original possuindo 400 observações e 14 colunas</p>
 
 [Dados](#dados)
+<br>
 
 # Acesso ao Projeto
 
 <p>Você pode acessar o código fonte do projeto ou baixá-lo.</p>
 
 [Projeto Completo](#projeto-completo)
+<br>
 
 # Tecnologias Utilizadas
 
