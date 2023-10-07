@@ -49,8 +49,7 @@ Isto é feito através do desenvolvimento de um modelo baseado na Regressão Lin
 
 # Acesso ao Projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/ingoreichertjr/fatura_cartao_de_credito/blob/main/Regressao_Linear_OLS%20.ipynb) ou [baixá-lo](https://github.com/ingoreichertjr/fatura_cartao_de_credito/blob/main/Regressao_Linear_OLS%20.ipynb)
-
+Você pode [acessar o código fonte do projeto](https://github.com/ingoreichertjr/fatura_cartao_de_credito/blob/main/Regressao_Linear_OLS%20.ipynb) ou <a href="Regressao_Linear_OLS .ipynb" download>baixá-lo</a>
 <br>
 
 # Tecnologias Utilizadas
