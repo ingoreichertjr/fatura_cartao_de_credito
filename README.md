@@ -76,6 +76,7 @@ Você pode acessar o código fonte do projeto [aqui](https://github.com/ingoreic
 # Desenvolvedores
 
 [<img loading="lazy" src="figuras/ingo.jpeg" width=115><br><sub>Ingo Reichert Junior</sub>](https://github.com/ingoreichertjr) 
+<br>
 
 # Conclusões e Recomendações
 
