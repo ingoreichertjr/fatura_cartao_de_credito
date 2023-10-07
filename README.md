@@ -29,4 +29,4 @@
 
   <p>Os dados desempenham um papel fundamental para qualquer tipo de instituição financeira, elas tornam seu funcionamento mais eficiente, permitindo que os gestores tomem decisões mais seguras e estratégicas, contribuem para uma melhor gestão de risco, são essenciais para que as instituições cumpram as conformidas regulatórias e ajudam a aprimorar a experiência do cliente.
   
-  Quando nos referimos específicamente a gestão de cartões de crédito, os dados também se mostram essenciais, e entender a partir deles como se ocorre o comportamento dos clientes na utilização dos cartões de crédito, pode significar uma grande vantagem competitiva em um setor com tantas ofertas.</p>
+  Quando nos referimos específicamente a gestão de cartões de crédito, os dados também se mostram essenciais, e entender a partir deles como ocorre o comportamento dos clientes na utilização dos cartões de crédito, pode significar uma grande vantagem competitiva em um setor com tantas ofertas.</p>
