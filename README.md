@@ -42,12 +42,12 @@
 
 <p>O banco de dados utilizado conta com características de diferentes clientes, com a sua formatação original possuindo 400 observações e 14 colunas</p>
 
-[Acessar os Dados](https://github.com/ingoreichertjr/fatura_cartao_de_credito/blob/main/dados/Credit.csv))
+[Acessar os Dados](https://github.com/ingoreichertjr/fatura_cartao_de_credito/blob/main/dados/Credit.csv)
 <br>
 
 # Acesso ao Projeto
 
-<p>Você pode acessar o código fonte do projeto ou baixá-lo.</p>
+<p>Você pode [acessar o código fonte do projeto](https://github.com/ingoreichertjr/fatura_cartao_de_credito/blob/main/Regressao_Linear_OLS%20.ipynb) ou baixá-lo.</p>
 
 [Acessar o Projeto](https://github.com/ingoreichertjr/fatura_cartao_de_credito/blob/main/Regressao_Linear_OLS%20.ipynb)
 <br>
