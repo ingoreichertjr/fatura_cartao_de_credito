@@ -55,9 +55,13 @@ Você pode acessar o código fonte do projeto [aqui](https://github.com/ingoreic
 
 # Tecnologias Utilizadas
 
-<p>As principais tecnologias utilizadas no projeto são:
-  
+<p>Linguagem de programação utilizada:
+
 - Python
+
+</p>
+
+<p>As principais Bibliotecas utilizadas no projeto são:
   
 - Pandas
   
