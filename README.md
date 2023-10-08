@@ -61,7 +61,7 @@ Você pode acessar o código fonte do projeto [aqui](https://github.com/ingoreic
 
 </p>
 
-<p>As principais Bibliotecas utilizadas no projeto são:
+<p>As principais Bibliotecas utilizadas são:
   
 - Pandas
   
